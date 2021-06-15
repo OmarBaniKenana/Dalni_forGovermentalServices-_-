@@ -14,3 +14,9 @@ Most citizens face problems with government transactions because they:
 
 This app is officially for all people in Jordan they want to know more guidelines about the government transactions, after that when anybody need to get any information about governmental services, he uses Dilni app to make the process easier, aware, limpidity, and satisfied.
 
+Link for the project on Google Drive:
+https://drive.google.com/drive/folders/1mZG-fig2dFRISMR137dSqHORpgc-_h3O?usp=sharing
+
+Watch Video:
+
+
