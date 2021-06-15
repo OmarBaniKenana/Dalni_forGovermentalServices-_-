@@ -40,10 +40,6 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_frame2.xml.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\image_frame2.xml"
-    },
-    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -56,16 +52,16 @@
         "source": "D:\\dalniApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_how_to_use.png"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pr.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\pr.jpeg"
-    },
-    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wifi_off.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_wifi_off.xml"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sug.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_sug.xml"
+    },
+    {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g2.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g2.jpg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_menu.xml.flat",
@@ -104,10 +100,6 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main2.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\main2.jpeg"
-    },
-    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_g.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\selected_g.xml"
     },
@@ -118,10 +110,6 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_back.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\menu\\menu_back.xml"
-    },
-    {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\main.jpeg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user1.png.flat",
@@ -138,6 +126,10 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_how_to_use.png.flat",
         "source": "D:\\dalniApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_how_to_use.png"
+    },
+    {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g7.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g7.jpg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user2.xml.flat",
@@ -164,8 +156,8 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\app.jpeg"
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g4.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g4.jpg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_searchmenu.xml.flat",
@@ -208,6 +200,10 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\layout\\activity_tabbed.xml"
     },
     {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_asfor.png.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\asfor.png"
+    },
+    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_g_card.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\layout\\g_card.xml"
     },
@@ -218,10 +214,6 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unselect_g.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\unselect_g.xml"
-    },
-    {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer2.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\drawer2.jpeg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_app.xml.flat",
@@ -244,24 +236,20 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\logo_hd.png"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\location.jpeg"
-    },
-    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_translate.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_translate.xml"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\info.jpeg"
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_attach_money_24.xml"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout2.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_logout2.xml"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attach_money_24.xml.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_attach_money_24.xml"
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g5.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g5.jpg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_card.xml.flat",
@@ -278,10 +266,6 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user1.png.flat",
         "source": "D:\\dalniApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user1.png"
-    },
-    {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sug.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\sug.jpeg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selected_text_2.xml.flat",
@@ -304,12 +288,12 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
     },
     {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_people_24.xml.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_people_24.xml"
-    },
-    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user1.png.flat",
         "source": "D:\\dalniApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user1.png"
+    },
+    {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_people_24.xml.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_people_24.xml"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
@@ -336,16 +320,16 @@
         "source": "D:\\dalniApp\\app\\src\\main\\res\\layout\\fragment_information.xml"
     },
     {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g6.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g6.jpg"
+    },
+    {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_g1.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\layout\\activity_g1.xml"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_place_24.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\ic_baseline_place_24.xml"
-    },
-    {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\drawer.jpeg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
@@ -358,6 +342,10 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
         "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_g3.jpg.flat",
+        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\g3.jpg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
@@ -398,10 +386,6 @@
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_how_to_use.png.flat",
         "source": "D:\\dalniApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_how_to_use.png"
-    },
-    {
-        "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.jpeg.flat",
-        "source": "D:\\dalniApp\\app\\src\\main\\res\\drawable\\search.jpeg"
     },
     {
         "merged": "D:\\dalniApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star.xml.flat",

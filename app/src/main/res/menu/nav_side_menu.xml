@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    
+    >
+
+
+
+    <item
+        android:id="@+id/menu_item_0"
+        android:icon="@drawable/ic_home"
+
+        android:title="الصفحة الرئيسية" />
+    <item
+        android:id="@+id/menu_item_1"
+        android:icon="@drawable/ic_information2"
+        android:title="معلومات شخصية" />
+
+    <item
+        android:id="@+id/menu_item_2"
+        android:icon="@drawable/ic_baseline_smartphone_24"
+        android:title="كيفية الاستخدام" />
+
+
+
+
+    <item
+        android:id="@+id/menu_item_3"
+        android:icon="@drawable/ic_how_to_use"
+        android:title="سجل"
+        />
+    <item
+        android:id="@+id/menu_item_4"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="من نحن"
+        />
+
+
+
+
+
+
+
+
+
+
+</menu>
